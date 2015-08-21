@@ -1,3 +1,3 @@
-bad
-yml:
-example
+good: 
+  yml: 
+    example
